@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamil-sql
-- 👀 I’m interested in RegularExpression, SQL, Jenkins, Data Analize, Python, 
+- 👀 I’m interested in QGIS, ArcMap, FME, SQL, RegularExpression, Jenkins, Data Analize, Python.
 - 🌱 I’m currently learning Jenkins, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
